@@ -22,7 +22,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Baratoo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baratoo&radius=16&theme=one-dark&area=true&order=5&hide_border=false&hide_title=false" height="200" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baratoo&radius=16&theme=one-dark&area=true&order=5&hide_border=false&hide_title=false" height="160" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -34,10 +34,10 @@
   <a href="https://www.instagram.com/kaique_barato?igsh=MW5qZmRoMG82cWpvZg%3D%3D&utm_source=qr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="kaique_luiz1@hotmail.com" target="_blank">
+  <a href="mailto:kaique_luiz1@hotmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
-  <a href="(44) 99924-9953" target="_blank">
+  <a href="https://wa.me/5544999249953" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
