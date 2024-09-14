@@ -1,4 +1,4 @@
-<h6 align="left">KAIQUE BARATO LUIZ</h6>
+<h1 align="left">KAIQUE BARATO LUIZ</h1>
 
 ###
 
