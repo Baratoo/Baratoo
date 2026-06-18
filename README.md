@@ -67,6 +67,7 @@ Repositórios com exercícios, projetos de faculdade e estudos envolvendo Java, 
 
 - Boas práticas em backend
 - APIs REST
+- Java - Spring Boot
 - React e TypeScript
 - Banco de dados
 - Organização de projetos para portfólio
