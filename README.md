@@ -1,4 +1,3 @@
-
 <h1 align="center">Kaique Barato Luiz</h1>
 
 <h3 align="center">Desenvolvedor Delphi Júnior | ERP • PDV • SQL • API REST • Android</h3>
@@ -50,15 +49,17 @@ Antes de atuar como desenvolvedor, iniciei na empresa como **Suporte Técnico**,
 
 ## Projetos em destaque
 
-### MineBank API
-Projeto pessoal em desenvolvimento com foco em backend, economia virtual e integração com servidor Minecraft.  
-Objetivo: criar uma API para simular banco, transações, ranking, mercado e regras econômicas dentro de um ambiente de jogo.
+### 🏦 MineBank API
+Projeto pessoal focado no desenvolvimento de um ecossistema financeiro completo e virtual para servidores de Minecraft. A proposta principal é fornecer uma **API REST** robusta que simule o funcionamento de um banco real dentro do jogo, aplicando conceitos sólidos de backend e banco de dados.
 
-### Controle de Caixa e Mensalidades
-Aplicação web para controle de membros, mensalidades e movimentações financeiras.  
-Tecnologias estudadas no projeto: React, TypeScript, Supabase e Git.
+**Principais características e funcionalidades da API:**
+- **Gestão de Contas e Carteiras:** Criação de contas bancárias virtuais vinculadas à identidade (UUID) dos jogadores, com controle rigoroso de saldo e histórico detalhado de movimentações financeiras.
+- **Sistema de Transações:** Endpoints seguros para processamento de depósitos, saques e transferências de "moedas virtuais" entre os usuários, garantindo a integridade dos dados (princípios ACID).
+- **Economia Dinâmica e Mercado:** Estrutura desenvolvida para suportar lojas virtuais, permitindo simular inflação, flutuação de preços com base na oferta/demanda e taxação de impostos sobre transações.
+- **Rankings e Estatísticas:** Geração de relatórios econômicos e *leaderboards* em tempo real (ex: os jogadores mais ricos do servidor, maior volume de negociações).
+- **Integração Desacoplada:** Arquitetura pensada para que a API seja facilmente consumida por plugins de Minecraft (como Spigot/Paper) via requisições HTTP, padronizando a comunicação através da troca de dados em formato **JSON**.
 
-### Projetos acadêmicos e estudos
+### 🎓 Projetos acadêmicos e estudos
 Repositórios com exercícios, projetos de faculdade e estudos envolvendo Java, C, Angular, TypeScript e lógica de programação.
 
 ---
@@ -97,4 +98,3 @@ Repositórios com exercícios, projetos de faculdade e estudos envolvendo Java, 
     <img src="https://img.shields.io/badge/E--mail-kaique_luiz1%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-```
