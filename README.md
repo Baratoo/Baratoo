@@ -78,13 +78,10 @@ Repositórios com exercícios, projetos de faculdade e estudos envolvendo Java, 
 
 ## Estatísticas
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Baratoo&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baratoo&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Baratoo&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" height="170" alt="Estatísticas do GitHub de Kaique" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baratoo&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" height="170" alt="Linguagens mais usadas por Kaique" />
+</div>
 
 ---
 
